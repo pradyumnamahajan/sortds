@@ -1,4 +1,4 @@
-# sortds
+# Sorting Visualizer
 C project for Data Structures, Second year, CMPN B16
 This project was a graphical representation of various sorting techniques like -
   
